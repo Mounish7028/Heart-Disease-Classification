@@ -4,6 +4,7 @@ This repository contains a complete end-to-end Machine Learning pipeline for Hea
 
 <img width="1923" height="861" alt="image" src="https://github.com/user-attachments/assets/a0c2d9b0-3918-475d-8701-7659c3893a97" />
 <img width="1923" height="883" alt="image" src="https://github.com/user-attachments/assets/fc87240a-37c3-4712-ae6f-9c531d82f703" />
+<img width="930" height="420" alt="image" src="https://github.com/user-attachments/assets/709d7a05-05cf-4b88-b6d3-627b4e38bef0" />
 
 
 
