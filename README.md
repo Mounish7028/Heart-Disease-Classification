@@ -2,6 +2,11 @@
 
 This repository contains a complete end-to-end Machine Learning pipeline for Heart Disease Classification, featuring extensive exploratory data analysis, advanced model training (ensemble methods and Particle Swarm Optimization), and a modern full-stack web application to serve the predictions.
 
+<img width="1923" height="861" alt="image" src="https://github.com/user-attachments/assets/a0c2d9b0-3918-475d-8701-7659c3893a97" />
+<img width="1923" height="883" alt="image" src="https://github.com/user-attachments/assets/fc87240a-37c3-4712-ae6f-9c531d82f703" />
+
+
+
 ## 📂 Repository Structure
 
 The project is divided into two major components: the exploratory research/model training phase and the production-ready web application.
